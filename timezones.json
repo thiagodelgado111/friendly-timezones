@@ -436,11 +436,6 @@
       "utcOffset": 5.75
     },
     {
-      "id": "Asia/Yekaterinburg",
-      "displayName": "(UTC+06:00) Ekaterinburg",
-      "utcOffset": 6
-    },
-    {
       "id": "Asia/Dhaka",
       "displayName": "(UTC+06:00) Dhaka",
       "utcOffset": 6
@@ -448,11 +443,6 @@
     {
       "id": "Indian/Chagos",
       "displayName": "(UTC+06:00) Chagos",
-      "utcOffset": 6
-    },
-    {
-      "id": "Asia/Dhaka",
-      "displayName": "(UTC+06:00) Dhaka",
       "utcOffset": 6
     },
     {
@@ -501,7 +491,7 @@
       "utcOffset": 8
     },
     {
-      "id": "Asia/Urumqi",
+      "id": "Asia/Chongqing",
       "displayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
       "utcOffset": 8
     },
