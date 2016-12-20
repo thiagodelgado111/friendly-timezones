@@ -1,0 +1,19 @@
+{
+  "name": "friendly-timezones",
+  "version": "0.0.1",
+  "description": "Friendly timezones ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagodelgado111/friendly-timezones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagodelgado111/friendly-timezones/issues"
+  },
+  "homepage": "https://github.com/thiagodelgado111/friendly-timezones#readme"
+}
