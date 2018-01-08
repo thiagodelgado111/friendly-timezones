@@ -14,7 +14,7 @@ npm install --save github:thiagodelgado111/friendly-timezones.git
 
 ### How do I use it?
 
-```js
+```
 import timezones from 'friendly-timezones`;
 
 console.log(timezones);
